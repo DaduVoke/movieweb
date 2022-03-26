@@ -1,9 +1,9 @@
 <?php
 
-$host= 'localhost';
-$user= 'root';
+$host= '';
+$user= '';
 $pass= '';
-$db= 'dbase';
+$db= '';
 
 $con= mysqli_connect($host,$user,$pass,$db);
 
@@ -20,7 +20,7 @@ session_start();
     <head>
 <!-----D4aDuv0ke---->
         <meta charset="utf-8">
-                 <title>Dorama Tv</title>
+                 <title></title>
                  
                      <link rel="stylesheet" href="css/style.css"/>
     <link rel="stylesheet" href="css/lightslider.css">
