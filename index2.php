@@ -18,7 +18,7 @@
     <php lang="en">
 <head>
     <meta charset="UTF-8">
-      <title>Dorama.tv</title>
+      <title></title>
       <link rel="shortcut icon" href="FAV Srati logo.PNG"/>
    
 </head>
