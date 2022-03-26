@@ -1,9 +1,9 @@
 <?php
 
-$dbhost = "localhost";
-$dbuser = "root";
+$dbhost = "";
+$dbuser = "";
 $dbpass = "";
-$dbname = "registration";
+$dbname = "";
 
 if(!$con = mysqli_connect($dbhost,$dbuser,$dbpass,$dbname))
 {
