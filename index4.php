@@ -3,7 +3,7 @@
     <head>
 
         <meta charset="utf-8">
-                 <title>Dorama Tv</title>
+                 <title></title>
                  
                      <link rel="stylesheet" href="css/style.css"/>
     <link rel="stylesheet" href="css/lightslider.css">
@@ -18,7 +18,7 @@
     <php lang="en">
 <head>
     <meta charset="UTF-8">
-      <title>Dorama.tv</title>
+      <title></title>
       <link rel="shortcut icon" href="FAV Srati logo.PNG"/>
    
 </head>
